@@ -7,7 +7,7 @@ public class SecondClassByGanesh {
 System.out.println("Hi, welcome to KTCTC");
 
 		System.out.println("Second line added by Shivraj and updating code by Ganesh");
-
+		System.out.println("New line of code By shivraj");
 
 
 	}
