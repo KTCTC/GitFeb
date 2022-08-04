@@ -5,6 +5,7 @@ public class NewClassByShivraj {
 		System.out.println("KTCTC");
 		System.out.println("updated by Ganesh");
 		System.out.println("Automation");
+		System.out.println("Updated code");
 
 	}
 
